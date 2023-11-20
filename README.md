@@ -33,7 +33,7 @@
 **2. Create a `.env` file based on the `.env.example` file:**
 
    ```shell
-   cd accounting tg bot
+   cd tg-bot-accounting
    ```
 
    ```shell
@@ -44,7 +44,6 @@
 
 **3. Run 
    ```shell
-   cd telegram-bot 
    python main.py
    ```
 
